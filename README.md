@@ -29,8 +29,8 @@ Currently working in *Engineering Division* as a ***Devops Engineer*** at [PT Am
 - Email: [rizkyramadhanajjkh@gmail.com](mailto:rizkyramadhanajjkh@gmail.com)
 - LinkedIn: [rizkyramadhanch](https://www.linkedin.com/in/rizkyramadhanch/)
 - Instagram: [@rizkyramadhanch](https://www.instagram.com/rizkyramadhanch/)
-- Twitter: [@cyber_rizkyramadhan](https://twitter.com/rizkyramadhanch)
-- Telegram: [@cyber_rizkyramadhan](https://t.me/rizkyramadhanch)
+- Twitter: [@rizkyramadhanch](https://twitter.com/rizkyramadhanch)
+- Telegram: [@rizkyramadhanch](https://t.me/rizkyramadhanch)
 
 ---
 
