@@ -8,14 +8,38 @@
 <br>
 -->
 
-👋 Hello... My full name is Rizky Ramadhan, so you can call me "Rizky". I'm Devops Engineer who specialized in *Cloud Infrastructure* side, but also have an ability to code in *backend* side. Very passionate about modern *backend technology* using JavaScript/TypeScrip and golangt while taking into consideration the latest trends and techniques.
+👋 Hello... My full name is Rizky Ramadhan, so you can call me "Rizky". I'm Devops Engineer who specialized in *Cloud Infrastructure* side, but also have an ability to code in *backend* side. Very passionate about modern *backend technology* using JavaScript/TypeScript and golang while taking into consideration the latest trends and techniques.
 
 ## 💼 Career
 Currently working in *Engineering Division* as a ***Devops Engineer*** at [PT Amartha Mikro Fintek](https://www.linkedin.com/company/amartha/mycompany/). Helping amartha to build modern infrastructure for *Financial Service* with technology throughout Southeast Asia.
 
 ## 💻 Experiences
-- language (linux, bash)
-- Virtualization (Vmware, )
+- Microservices Architecture
+- Server Administration (Linux (mastering almost all distro), Unix, Windows Server)
+- Database administration SQL (mysql, postgresql, percona, oracle)
+- DB Administration No-SQL (Cassandra, redis, Elasticsearch, mongodb)
+- Message broker (kafka, rabbitmq)
+- Virtualization & Containerization (proxmox, VMware, openstack, docker, lxc, podman)
+- Container Orchestration (kubernetes, nomad, mesos, swarm)
+- Private and Public Cloud (GCP, AWS, azure, Alibaba, digitalocean, linode)
+- Networking (TCP/IP, ISO layer, subnetting, routing)
+- Programming (Bash, Python)
+- Web server (nginx, Apache, Caddy, litespeed, lighthttpd, glassfish, IIS, cherrokee, Jetty, haproxy, openresty)
+- API gateway (Kong, apigee, axway, youngapp, snaplogic, Akana, 3scale, AWS Fargate, expressGateway)
+- distributed tracing (jaeger, zipkin, opencencus, pinpoint, loki)
+- Service mesh (istio, consul, linkerd, kuma, maesh, NSM, AAM, openshift, )
+- CI/CD automation gitops (Jenkins, gitlab, appcenter, Travis, bamboo, fluxCD, flagger, gitkube, argocd, goCD, )
+- secret management (consul, vault, sealedsecret bitnami)
+- Communication tools (slack, mattermost, telegram, discord, rocketchat)
+- Monitoring (ELK, TIG, Prometheus, newrelic, datadog, nagios, zabbix, logic monitor, icinga, splunk, openNMS, zenoss, dynatrace, shinken)
+- Versioning Control(git, svn)
+- Configuration management (ansible, cheff, saltstack)
+- Infrastructure as code ( Terraform, Pulumi )
+- Load Test Tool ( Apache Benchmark, JMeter)
+- Capacity planning (Cost Saving, Scalability, Reliability, Security, Availability)
+- Design Architecture (draw.io, visio,)
+- Communication skill (English, bahasa indonesia, sundanese)
+- Teamwork (jira, phabricator, trello)
 
 ### 🔍 Currently Learning:
 - language (python, golang, javascript, nodejs, typescript)
