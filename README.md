@@ -10,7 +10,7 @@
 ## 💼 Career
 Currently working in *Engineering Division* as a  ***Senior Devops Engineer*** at [PT Amartha Mikro Fintek](https://www.linkedin.com/company/amartha/mycompany/). Helping amartha to build modern infrastructure for *Financial Service* with technology throughout Southeast Asia.
 
-## 💻 Experiences
+## 💻 Skilset
 - Microservices Architecture
 - Server Administration (Linux (mastering almost all distro), Unix, Windows Server)
 - Database administration SQL (mysql, postgresql, percona, oracle)
@@ -25,7 +25,7 @@ Currently working in *Engineering Division* as a  ***Senior Devops Engineer*** a
 - API gateway (Kong, apigee, axway, youngapp, snaplogic, Akana, 3scale, AWS Fargate, expressGateway)
 - distributed tracing (jaeger, zipkin, opencencus, pinpoint, loki)
 - Service mesh (istio, consul, linkerd, kuma, maesh, NSM, AAM, openshift, )
-- CI/CD automation gitops (Jenkins, gitlab, appcenter, Travis, bamboo, fluxCD, flagger, gitkube, argocd, goCD, )
+- CI/CD automation gitops (Jenkins, gitlab, appcenter, Travis, bamboo, fluxCD, flagger, gitkube, argocd, goCD, bitbucket, CircleCI)
 - secret management (consul, vault, sealedsecret bitnami)
 - Communication tools (slack, mattermost, telegram, discord, rocketchat)
 - Monitoring (ELK, TIG, Prometheus, newrelic, datadog, nagios, zabbix, logic monitor, icinga, splunk, openNMS, zenoss, dynatrace, shinken)
