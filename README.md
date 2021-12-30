@@ -3,9 +3,6 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=rizkyramadhanch&color=F4A4B5&style=flat" alt="rizkyramadhanch" />
 </div>
-<div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Rizky. I like code. Thanks for reading.">
-</div>
 
 <br>
 
