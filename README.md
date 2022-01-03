@@ -38,11 +38,12 @@ Currently working in *Engineering Division* as a  ***Infrastructure Site Reliabi
 - Design Architecture (draw.io, visio,)
 - Communication skill (English, bahasa indonesia, sundanese)
 - Teamwork (jira, phabricator, trello)
+- and many more tech stack depend on use case to solving problem in company.
 
 ### 🔍 Currently Learning:
-- language (python, golang, javascript, nodejs, typescript)
-- Data Science
-- Machine Learning
+- solving problem with programming language (bash, python, golang, rust, nodejs, typescript, and deno)
+- Data Engineering & Data Scientist
+- Machine Learning Ops
 - Artificial Intelegent
 - Cryptocurrency
 
