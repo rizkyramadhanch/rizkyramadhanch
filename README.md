@@ -1,4 +1,4 @@
-👋 Hello... My full name is Rizky Ramadhan from 🇮🇩. so you can call me "Rizky". I'm IT Enthusiast who specialized in *Devops | SRE | Cloud Infrastructure* side, but also have an ability to code in *backend* side. Very passionate about modern *backend technology* using JavaScript/TypeScript and golang while taking into consideration the latest trends and techniques.
+👋 Hello... My full name is Rizky Ramadhan from 🇮🇩. so you can call me "Rizky". I'm IT Enthusiast who specialized in * Cloud | SRE | Devops | ML | Data | Researcher | Writer | Instructor side, but also have an ability to code in *backend* side. Very passionate about modern *backend technology* using JavaScript/TypeScript and golang while taking into consideration the latest trends and techniques.
 
 ## 💼 Career
 Currently working in *Engineering Division* as a  ***Infrastructure Site Reliability Engineer*** at [PT Ruang Raya INdonesia](https://www.linkedin.com/company/ruangguru-com/). Helping Ruangguru to build modern infrastructure for *Education Service* with technology throughout Southeast Asia.
