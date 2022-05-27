@@ -28,7 +28,7 @@ Currently working in *Engineering Division* as a  ***Infrastructure Site Reliabi
 ## 💻 Skilset
 - Microservices Architecture
 - Server Administration (Linux (mastering almost all distro), Unix, Windows Server)
-- Database administration SQL (mysql, postgresql, percona, oracle)
+- Database administration SQL (mysql, postgresql, percona, oracle, corosync, pacemaker)
 - DB Administration No-SQL (Cassandra, redis, Elasticsearch, mongodb)
 - Message broker (kafka, rabbitmq)
 - Virtualization & Containerization (proxmox, VMware, openstack, docker, lxc, podman)
