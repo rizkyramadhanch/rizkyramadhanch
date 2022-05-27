@@ -3,6 +3,7 @@
 ## 💼 Career
 Currently working in *Engineering Division* as a  ***Infrastructure Site Reliability Engineer*** at [PT Ruang Raya INdonesia](https://www.linkedin.com/company/ruangguru-com/). Helping Ruangguru to build modern infrastructure for *Education Service* with technology throughout Southeast Asia.
 
+
 ## 💻 Skilset
 - Microservices Architecture
 - Server Administration (Linux (mastering almost all distro), Unix, Windows Server)
@@ -56,6 +57,43 @@ Currently working in *Engineering Division* as a  ***Infrastructure Site Reliabi
 <a href="https://twitter.com/rizkyramadhanch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizkyramadhanch" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rizkyramadhanch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizkyramadhanch/" height="30" width="40" /></a>
 </p>
+
+
+                                               ..,.oooE777999V(;
+                                  ...oooP779090(;''       ''''  I
+                    ...ooB777979V;;''       .....=v}}=}=}=}}v==  5
+               97?(;''     .........<<vvvv<vvvvvvvvvvvvvvv}}}}v} L
+               ,   ..;;`;;;;;<;<<<<<<<<<<<<<v<vvvvvvvvvv}vv}}}}}. 1
+               b (:::``;;;;;;;;;;;<;<;<<<<<<<<<<<<v<v<vvvvvvvv}v}, E
+               `J ::.:.:.``;;;;;;;;;;;<;;;<<<<<<<<<<<<v<v<vvvvvvvx L
+                L  :. :.:.:.:.``;;;;;;;;;;;;;;<;<<<<<<<<<<v<<v<vv<( T
+                `> .    . .:.:.:.:.`:;``;;;;;;;;<;;;<;<<<<<<<<<<<v< >
+                 b ;           . : .:.:.:.`;;;;;;;;;;;<;;<;<<<<<<<<, I
+                 `,`               . : :.:.:.:.`.`;;;;;;;;;;;;<;<;<<. 5
+                  b ;                    . : .:.:.:.`;;;;;;;;;;;<;<;<: E
+                  `,<                         . . .:.:.:.``;;;;;;;;;;. I
+                   b :                             . . :.:.:.:.:.:.;;;. 5
+                   `>;                                  . .:..:.:.:.`.:  |
+                    b :                                      . . :.:.:.x T
+                    `,;                                          . . .::  E
+                     b :                                               _  !4
+                     `r :                                   __.__,--,;'))))).
+                      b :                         ___...--'; `))))))))' '' `>!9eOc
+                      `r :              __,--:-;;;)))))))))))'' '' ' ' _. -'-'.`!9Eg.
+                       L : . __.--_--:,)))))))))))'' ' '  _. ._.-'-'-'-'\-'\---\/\ ``Qu.
+                       `,: !x;:)))))))) ')'' ' _ _._-.'\'\_\_-'\''-\'_'\-'\'\ -_\'-\-. 95n.
+                        D` ))))'''  _ .___.-_:/-/\/-_\ /-_, /-,\ \-/_\/\,-\_/-\/-/--' ..v<]9o.
+                      __b :<> -_\._/\,- ,_ -\ _/\-\ _-\ -_/-\,\/,-/\_/-_\'\--' .vvvvvvv}v}}x}]NEo.
+                .ooPO%LOCu  `< `/\_ -:\/_/-/,\/,/-,/_,-/\ :_\:_-:__-'' ...vvvvvvvvvvvvxx}vx}}}}==No
+              .oPO'       `y. `< ~-\ _\/\_,- \ , - ,___..--' .......>>vvvvvvvvx<xvvxx}=x===}~^^   I
+        om3jR&57'          `Ey, `\ `!,\ \-/_/\_---''.......vv>>vvvvvvvvvv)v<xvx=}=<~~^~`       :_yd
+    _.rq8'                    `L, `<_ `--'.......vv<<<<v<<<<x<vv<vvvvxxxx=>~~~`         iuuuaE'
+  .@tTL'                        `y,  `< .-vvv<<<<<<<<<xxvx>vvvvv=>~~~~`         _uuua'''
+.&P'                              `L,  `>>><<<<><>v<vvvvvx~`::`       ::_uuua'''
+                                    `y,  `:F_P:<x>~>^` `        _uuug'
+                                      `L,  ~~`          _uuua''
+                                        `L,:    _uuua''
+                                          `LaE''
 
 ---
 
