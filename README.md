@@ -5,17 +5,17 @@
      |  .-----------------.  |  |     +---------+      |
      |  |                 |  |  |     | -==----'|      |
      |  |  $rm -R         |  |  |     |         |      |
-     |  |                 |  |  |/----|`---=    |      |
+     |  |                 |  |  |/----| ---=    |      |
      |  |                 |  |  |   ,/|==== ooo |      ;
      |  |                 |  |  |  // |(((( [33]|    ,"
-     |  `-----------------'  |," .;'| |((((     |  ,"
+     |   -----------------'  |," .;'| |((((     |  ,"
      +-----------------------+  ;;  | |         |,"
         /_)______________(_/  //'   | +---------+
-   ___________________________/___  `,
+   ___________________________/___   ,
   /  oooooooooooooooo  .o.  oooo /,   \,"-----------
- / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+ / ==ooooooooooooooo==.o.  ooo= //   , \--{)B     ,"
 /_==__==========__==_ooo__ooo=_/'   /___________,"
-`-----------------------------'
+ -----------------------------'
 
 👋 Hello... My full name is Rizky Ramadhan from 🇮🇩. so you can call me "Rizky". I'm IT Enthusiast who specialized in * Cloud | SRE | Devops | ML | Data | Researcher | Writer | Instructor side, but also have an ability to code in *backend* side. Very passionate about modern *backend technology* using JavaScript/TypeScript and golang while taking into consideration the latest trends and techniques.
 
