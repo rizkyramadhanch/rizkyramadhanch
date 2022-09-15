@@ -49,7 +49,7 @@ Currently working in *Engineering and Data Division* as a  ***Infrastructure Sit
 - Infrastructure as code ( Terraform, Pulumi )
 - Load Test Tool ( Apache Benchmark, JMeter, vegeta)
 - Capacity planning (Cost Saving, Scalability, Reliability, Security, Availability)
-- Design Architecture (draw.io, visio,)
+- Design Architecture (draw.io, visio, brainboard, excalidraw)
 - Communication skill (English, bahasa indonesia, sundanese)
 - Teamwork (jira, phabricator, trello, quip, notions)
 - and many more tech stack depend on use case and demand to solving problem in company.
