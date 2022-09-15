@@ -40,7 +40,7 @@ Currently working in *Engineering and Data Division* as a  ***Infrastructure Sit
 - API gateway (Kong, apigee, axway, youngapp, snaplogic, Akana, 3scale, AWS Fargate, expressGateway)
 - distributed tracing (jaeger, zipkin, opencencus, pinpoint, loki)
 - Service mesh (istio, consul, linkerd, kuma, maesh, NSM, AAM)
-- CI/CD automation gitops (Jenkins, gitlab, appcenter, Travis, bamboo, fluxCD, flagger, gitkube, argocd, goCD, bitbucket, CircleCI)
+- CI/CD automation gitops (Jenkins, gitlab, github, appcenter, Travis, bamboo, fluxCD, flagger, gitkube, argocd, goCD, bitbucket, CircleCI)
 - secret management (consul, vault, sealedsecret bitnami)
 - Communication tools (slack, mattermost, telegram, discord, rocketchat, zulip)
 - Monitoring (ELK, TIG, Prometheus, victoriametrics, newrelic, datadog, nagios, zabbix, logic monitor, icinga, splunk, openNMS, zenoss, dynatrace, shinken)
