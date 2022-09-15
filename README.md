@@ -70,12 +70,8 @@ Currently working in *Engineering and Data Division* as a  ***Infrastructure Sit
 ### 🚀 How to reach me:
 - Web: [rizkyramadhanch.github.io](https://rizkyramadhanch.github.io)
 - Email: [rizkyramadhanajjkh@gmail.com](mailto:rizkyramadhanajjkh@gmail.com)
-- LinkedIn: [rizkyramadhanch](https://www.linkedin.com/in/rizkyramadhanch/)
-- Instagram: [@rizkyramadhanch](https://www.instagram.com/rizkyramadhanch/)
-- Facebook: [@rizkyramadhanch](https://www.facebook.com/rizkyramadhanch)
-- Twitter: [@rizkyramadhanch](https://twitter.com/rizkyramadhanch)
 - Telegram: [@rizkyramadhanch](https://t.me/rizkyramadhanch)
-- Youtube: [Greyhat Engineer](https://www.youtube.com/channel/UCQ_enuhx8kqOQca1HE3fOzg)
+
 
 
 <h3 align="left">Connect with me:</h3>
